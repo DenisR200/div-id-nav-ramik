@@ -1,0 +1,36 @@
+#nadpis1{
+    padding: 10px;
+    color: red;
+    font-size: 50px;
+}
+
+#text1{
+    font-size: 35px;
+    color: red;
+}
+
+#nadpis2{
+    padding: 10px;
+    color: blue;
+    font-size: 50px;
+}
+
+#text2{
+    font-size: 35px;
+    color: blue;
+}
+
+#nadpis3{
+    padding: 10px;
+    color: aqua;
+    font-size: 50px;
+}
+
+#text3{
+    font-size: 35px;
+    color: aqua;
+}
+
+nav ul {
+    display: flex;
+}
